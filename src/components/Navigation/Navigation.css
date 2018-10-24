@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: gray;
+  color: white;
+}
+.title {
+  padding-left: 100px;
+}
+.navbar > button {
+  margin-right: 100px;
+}

@@ -1,0 +1,30 @@
+.circle {
+  border-radius: 50%;
+  border: 1px grey solid;
+  width: 10px;
+  height: 10px;
+  margin-left: 15px;
+  display: inline-block;
+}
+
+.green {
+  background-color: green;
+  border-color: greenyellow;
+}
+
+.red {
+  background-color: red;
+  border-color: tomato;
+}
+.productItem {
+  width: 250px;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.productItem  img {
+  width: 100%;
+}
